@@ -1,0 +1,5 @@
+GCLOUD_LOCATION: "us-central1"
+GCLOUD_PROJECT_ID: "cloud-summit-2-460707"
+BACKEND_URL: "http://localhost:8081/chat"
+STORAGE_BUCKET_NAME: "personal-expense-assistant-receipts2-zeinhasan-2025"
+DB_COLLECTION_NAME: "personal-expense-assistant-receipts"
